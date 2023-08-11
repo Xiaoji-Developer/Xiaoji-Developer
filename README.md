@@ -24,7 +24,7 @@
   </picture>
   </div>
 
-###  🙋 Hi there 👋
+## 🙋 Hi there 👋
 <img align="right" width="200" src="https://i.postimg.cc/FscvT0sC/image.jpg" />
 
 <p>&emsp;&emsp;大家好，我是Xiaoji-Developer。</p>
@@ -35,9 +35,12 @@
 <p><strong>&emsp;&emsp;We're making the world a better place.</strong></p>
 <p><strong>&emsp;&emsp;Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-- 🔖: 正在参与的项目：https://uegov.world/
+### 🔖: 正在参与的项目：https://uegov.world/
   
-<img src="https://github-readme-stats.vercel.app/api?username=Xiaoji-Developer"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoji-Developer)](https://github.com/Xiaoji-Developer/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xiaoji-Developer"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xiaoji-Developer"/>
+</p>
 
 <!---
 Xiaoji-Developer/Xiaoji-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
