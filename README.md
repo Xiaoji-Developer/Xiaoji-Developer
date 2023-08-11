@@ -36,10 +36,8 @@
 <p><strong>&emsp;&emsp;Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 - 🔖: 正在参与的项目：https://uegov.world/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoji-Developer&layout=compact)](https://github.com/Xiaoji-Developer/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=Xiaoji-Developer"/> 
-</p>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Xiaoji-Developer"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoji-Developer)](https://github.com/Xiaoji-Developer/github-readme-stats)
 
 <!---
 Xiaoji-Developer/Xiaoji-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
