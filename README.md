@@ -35,7 +35,7 @@
 <p><strong>&emsp;&emsp;We're making the world a better place.</strong></p>
 <p><strong>&emsp;&emsp;Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-### 🔖: 正在参与的项目：https://uegov.world/
+### 🔖: 正在参与的项目：[United Earth Team 地球联合组](https://github.com/United-Earth-Team)
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xiaoji-Developer"/>
