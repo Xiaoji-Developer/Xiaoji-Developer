@@ -22,18 +22,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
+  </div>
 
-</div>
-
-<div align="center">
-#  🙋 Hi there 👋
-
-<table>
-<tr><td>
-
-<!-- About me 关于我 -->
-### 🤺 About Me
-
+###  🙋 Hi there 👋
 <img align="right" width="200" src="https://i.postimg.cc/FscvT0sC/image.jpg" />
 
 <p>&emsp;&emsp;大家好，我是Xiaoji-Developer。</p>
@@ -44,71 +35,10 @@
 <p><strong>&emsp;&emsp;We're making the world a better place.</strong></p>
 <p><strong>&emsp;&emsp;Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-
-
-</td></tr>
-
-<tr>
-<td>
-  
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
-  
-  - 工作岗位：Web前端开发工程师（初级）
-  - 工作内容：GIS相关
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-  
-  - 工作岗位：Web前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
-
-</td>
-</tr>
-
-<tr><td>
-
-<!-- 近期博客 -->
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-
-你好，我是Xiaoji，一名学生同时也是一位开发者/Developer。
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
- ![Visitor Count](https://profile-counter.glitch.me/Xiaoji-Developer/count.svg)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoji-Developer)](https://github.com/Xiaoji-Developer/github-readme-stats)
+- 🔖: 正在参与的项目：https://uegov.world/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoji-Developer&layout=compact)](https://github.com/Xiaoji-Developer/github-readme-stats)
-
- 
-- :meat_on_bone: 正在参与的项目：https://uegov.world/
-- https://wiki.unitedearth.cc/
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xiaoji-Developer"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Xiaoji-Developer"/> 
 </p>
 
 <!---
